@@ -1,0 +1,20 @@
+li{
+    text-decoration: solid;
+    font-size: 40px;
+     margin-left: 200px;
+     color:black;
+}
+body{
+ background-image: url('https://media.istockphoto.com/id/1035219610/de/foto/frisch-und-roh-gem%C3%BCse-auf-holz-k%C3%BCchentisch-copy-space.jpg?s=612x612&w=0&k=20&c=ypD-dTcO3awHDKowrBJLsSSQJA555Mwu2-5GeEvfNg8=');
+  background-size: 100%; 
+  margin-bottom: 3000px;
+
+}
+h1{
+    font-size: 40px;
+    margin-left:200px;
+    color:rgb(107, 57, 96);
+}
+img{
+    border-radius: 400px;
+}
